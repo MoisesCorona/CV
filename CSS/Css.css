@@ -391,6 +391,7 @@ img{
     align-items: center;
     font-size: var(--small-font-size);
     margin-bottom: 1rem;
+    color: var(--title-color);
     
 }
 
@@ -405,6 +406,7 @@ img{
 .home--icon{
     font-size: 1.2rem;
     margin-right: .25rem;
+   
 }
 
 .home--button-movil{
